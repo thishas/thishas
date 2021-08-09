@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Salutations, I'm Thisha pronounced T'hisha! 💻👋🏾
+Salutations, I'm Thisha pronounced T'hisha! 💻👋🏾 
+
 I have over 20 years in mainly in Validation Engineer (Quality Assurance).  Now I am currently revamping self with Web Design / C++ and more. 
 
 Skills & Experience
