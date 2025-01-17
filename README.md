@@ -32,8 +32,10 @@ class FeistyFenix:
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://twitter.com/your_handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/your_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thisha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.twitch.tv/feisty_fenix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="Twitch" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@FeistyFenix-i7d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+<a href="https://bsky.app/profile/feistyfenix.bsky.social" target="blank"><img align="center" src="https://raw.githubusercontent.com/pallets/flask/main/artwork/logo-full.svg" alt="Bluesky" height="30" width="40" /></a>
 </p>
 
 ### 🛠 Tech Stack:
@@ -64,7 +66,7 @@ class FeistyFenix:
 
 <div align="center">
   <h3>Support Feisty Fenix</h3>
-  <a href="https://www.buymeacoffee.com/your_username" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="50px">
+  <a href="https://feistyfenix.com/" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Support Feisty Fenix" height="50px">
   </a>
 </div>
